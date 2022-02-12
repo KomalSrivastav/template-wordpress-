@@ -1,0 +1,5 @@
+/*
+Theme Name:Html-hiking
+Decription:Html-hiking;
+Author:'http://localhost/wordpress-start'
+*/
